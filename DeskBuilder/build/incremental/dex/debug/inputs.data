@@ -1,0 +1,25 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1392061665000 766 35c51767dc75a7d07530e38f2ef3c7b7d83b53be /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/FullscreenActivity$4.class
+1392061665000 1881 6c3699a01eb861ab783e57a86c41bef52d981218 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/FullscreenActivity$1.class
+1392061665000 382 f4210f68107c5ffeffb82f80be300196585c69e2 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$color.class
+1392061665000 612 1ee509c1f846926be16a8c3b5847b558faae3651 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$styleable.class
+1392061665000 572 cd29dfde27dedcbcbb0f015b01c3e10f074ca425 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$style.class
+1392061665000 1429 3db79a9329545164a63f5f5e87e5e5e2ba4eb2e7 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/util/SystemUiHiderBase.class
+1392061665000 391 9debed3350713e35ba759c77d67afaa402420771 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$layout.class
+1392061665000 941 b7dbffe655a8e9881883fce1fc42de58ec712c5d /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/FullscreenActivity$2.class
+1392061665000 615 4d5fea2edec58ade2a7a42cb7e5fa3a9ae3cc8f4 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/util/SystemUiHider$1.class
+1392061665000 389 b5c439d8d04a802289c9f1f83e7d93701248ded7 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$drawable.class
+1392061665000 424 664cdbd2c1b647c0712ea7bc59a8c16565faf3d4 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$attr.class
+1392061665000 893 3be4eafb8f6117be356db69be226e71d1715b0eb /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/FullscreenActivity$3.class
+1392061665000 1978 391880b5c010922918a1fe5a3df29a6baa2a7c09 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/util/SystemUiHider.class
+1392061665000 623 7b16fb097b708eab56905ab5838dea9c163f2386 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R.class
+1392061665000 454 20eecf2697cbf3015a439a23b3a49b55db5581b4 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/BuildConfig.class
+1392061665000 2914 0aa3a9afbae0e5234c2df3518eb5f1a23910a6bb /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/FullscreenActivity.class
+1392061665000 2193 9cb8e31500adb482859d85f1dd3bbf89856944dc /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/util/SystemUiHiderHoneycomb.class
+1392061665000 1939 75a45878869b60a601ef9172815696a2665030e0 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/util/SystemUiHiderHoneycomb$1.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1392061665000 453 0aaf184d5f63f5ad4cd86354f5e00f75f2377f72 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$string.class
+1392061665000 465 d457234a9d2b6da7b9de54d4e902d13bc17b600a /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/R$id.class
+1392061665000 285 3c20b9a6a6fbd6ced9841c23d068df5a145066b6 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/build/classes/debug/com/ucg/desk/util/SystemUiHider$OnVisibilityChangeListener.class

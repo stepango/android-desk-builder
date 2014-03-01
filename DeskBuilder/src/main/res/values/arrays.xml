@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes">
+        <item>druid</item>
+        <item>hunter</item>
+        <item>mage</item>
+        <item>paladin</item>
+        <item>priest</item>
+        <item>rouge</item>
+        <item>shaman</item>
+        <item>warlock</item>
+        <item>warrior</item>
+    </string-array>
+
+</resources>

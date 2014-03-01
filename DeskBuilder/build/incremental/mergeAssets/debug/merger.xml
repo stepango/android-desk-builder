@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets" >
+            <file
+                name="main/CS2_146.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_146.png" />
+            <file
+                name="main/CS2_227.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_227.png" />
+            <file
+                name="main/EX1_001.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_001.png" />
+            <file
+                name="main/EX1_009.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_009.png" />
+            <file
+                name="main/NEW1_041.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_041.png" />
+            <file
+                name="main/EX1_561.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_561.png" />
+            <file
+                name="main/EX1_044.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_044.png" />
+            <file
+                name="main/CS2_187.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_187.png" />
+            <file
+                name="main/NEW1_029.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_029.png" />
+            <file
+                name="main/EX1_015.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_015.png" />
+            <file
+                name="main/NEW1_020.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_020.png" />
+            <file
+                name="main/EX1_023.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_023.png" />
+            <file
+                name="main/CS2_188.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_188.png" />
+            <file
+                name="main/CS2_171.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_171.png" />
+            <file
+                name="main/NEW1_021.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_021.png" />
+            <file
+                name="main/NEW1_040.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_040.png" />
+            <file
+                name="main/EX1_059.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_059.png" />
+            <file
+                name="main/CS2_127.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_127.png" />
+            <file
+                name="main/EX1_162.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_162.png" />
+            <file
+                name="main/EX1_509.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_509.png" />
+            <file
+                name="main/NEW1_019.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_019.png" />
+            <file
+                name="main/NEW1_025.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_025.png" />
+            <file
+                name="main/EX1_116.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_116.png" />
+            <file
+                name="main/EX1_043.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_043.png" />
+            <file
+                name="main/EX1_085.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_085.png" />
+            <file
+                name="main/EX1_096.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_096.png" />
+            <file
+                name="main/tt_004.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/tt_004.png" />
+            <file
+                name="main/EX1_396.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_396.png" />
+            <file
+                name="main/EX1_004.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_004.png" />
+            <file
+                name="main/EX1_405.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_405.png" />
+            <file
+                name="main/EX1_102.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_102.png" />
+            <file
+                name="main/EX1_014.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_014.png" />
+            <file
+                name="main/EX1_582.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_582.png" />
+            <file
+                name="main/EX1_062.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_062.png" />
+            <file
+                name="main/EX1_412.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_412.png" />
+            <file
+                name="main/CS2_189.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_189.png" />
+            <file
+                name="main/CS2_186.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_186.png" />
+            <file
+                name="main/EX1_249.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_249.png" />
+            <file
+                name="main/EX1_110.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_110.png" />
+            <file
+                name="main/EX1_080.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_080.png" />
+            <file
+                name="main/CS2_125.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_125.png" />
+            <file
+                name="main/EX1_556.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_556.png" />
+            <file
+                name="main/EX1_586.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_586.png" />
+            <file
+                name="main/EX1_006.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_006.png" />
+            <file
+                name="main/CS2_147.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_147.png" />
+            <file
+                name="main/EX1_008.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_008.png" />
+            <file
+                name="main/EX1_563.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_563.png" />
+            <file
+                name="main/EX1_007.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_007.png" />
+            <file
+                name="main/CS2_120.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_120.png" />
+            <file
+                name="main/CS2_168.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_168.png" />
+            <file
+                name="main/CS1_042.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS1_042.png" />
+            <file
+                name="main/CS2_169.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_169.png" />
+            <file
+                name="main/EX1_089.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_089.png" />
+            <file
+                name="main/CS2_173.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_173.png" />
+            <file
+                name="main/CS2_231.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_231.png" />
+            <file
+                name="main/CS2_124.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_124.png" />
+            <file
+                name="main/EX1_017.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_017.png" />
+            <file
+                name="main/NEW1_026.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_026.png" />
+            <file
+                name="main/CS2_142.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_142.png" />
+            <file
+                name="main/EX1_507.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_507.png" />
+            <file
+                name="main/CS2_162.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_162.png" />
+            <file
+                name="main/EX1_002.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_002.png" />
+            <file
+                name="main/NEW1_027.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_027.png" />
+            <file
+                name="main/CS2_121.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_121.png" />
+            <file
+                name="main/EX1_020.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_020.png" />
+            <file
+                name="main/EX1_393.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_393.png" />
+            <file
+                name="main/EX1_093.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_093.png" />
+            <file
+                name="main/EX1_390.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_390.png" />
+            <file
+                name="main/EX1_067.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_067.png" />
+            <file
+                name="main/EX1_564.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_564.png" />
+            <file
+                name="main/EX1_593.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_593.png" />
+            <file
+                name="main/EX1_103.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_103.png" />
+            <file
+                name="main/EX1_025.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_025.png" />
+            <file
+                name="main/EX1_508.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_508.png" />
+            <file
+                name="main/CS2_150.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_150.png" />
+            <file
+                name="main/CS2_203.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_203.png" />
+            <file
+                name="main/CS2_196.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_196.png" />
+            <file
+                name="main/EX1_005.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_005.png" />
+            <file
+                name="main/CS2_201.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_201.png" />
+            <file
+                name="main/NEW1_022.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_022.png" />
+            <file
+                name="main/EX1_283.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_283.png" />
+            <file
+                name="main/CS2_155.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_155.png" />
+            <file
+                name="main/CS2_141.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_141.png" />
+            <file
+                name="main/EX1_046.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_046.png" />
+            <file
+                name="main/EX1_399.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_399.png" />
+            <file
+                name="main/NEW1_023.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_023.png" />
+            <file
+                name="main/CS2_119.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_119.png" />
+            <file
+                name="main/EX1_097.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_097.png" />
+            <file
+                name="main/EX1_057.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_057.png" />
+            <file
+                name="main/CS2_181.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_181.png" />
+            <file
+                name="main/NEW1_030.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_030.png" />
+            <file
+                name="main/CS2_179.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_179.png" />
+            <file
+                name="main/EX1_010.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_010.png" />
+            <file
+                name="main/PRO_001.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/PRO_001.png" />
+            <file
+                name="main/CS1_069.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS1_069.png" />
+            <file
+                name="main/EX1_033.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_033.png" />
+            <file
+                name="main/CS2_122.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_122.png" />
+            <file
+                name="main/CS2_118.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_118.png" />
+            <file
+                name="main/EX1_616.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_616.png" />
+            <file
+                name="main/CS2_200.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_200.png" />
+            <file
+                name="main/EX1_584.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_584.png" />
+            <file
+                name="main/EX1_029.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_029.png" />
+            <file
+                name="main/EX1_506.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_506.png" />
+            <file
+                name="main/EX1_558.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_558.png" />
+            <file
+                name="main/CS2_151.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_151.png" />
+            <file
+                name="main/EX1_557.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_557.png" />
+            <file
+                name="main/EX1_048.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_048.png" />
+            <file
+                name="main/CS2_226.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_226.png" />
+            <file
+                name="main/EX1_583.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_583.png" />
+            <file
+                name="main/DS1_055.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/DS1_055.png" />
+            <file
+                name="main/EX1_284.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_284.png" />
+            <file
+                name="main/EX1_055.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_055.png" />
+            <file
+                name="main/EX1_019.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_019.png" />
+            <file
+                name="main/CS2_197.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_197.png" />
+            <file
+                name="main/CS2_117.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_117.png" />
+            <file
+                name="main/EX1_572.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_572.png" />
+            <file
+                name="main/EX1_032.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_032.png" />
+            <file
+                name="main/EX1_012.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_012.png" />
+            <file
+                name="main/EX1_076.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_076.png" />
+            <file
+                name="main/CS2_213.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_213.png" />
+            <file
+                name="main/EX1_100.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_100.png" />
+            <file
+                name="main/EX1_049.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_049.png" />
+            <file
+                name="main/EX1_082.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_082.png" />
+            <file
+                name="main/EX1_577.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_577.png" />
+            <file
+                name="main/EX1_560.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_560.png" />
+            <file
+                name="main/CS2_222.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_222.png" />
+            <file
+                name="main/EX1_597.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_597.png" />
+            <file
+                name="main/CS2_172.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_172.png" />
+            <file
+                name="main/EX1_083.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_083.png" />
+            <file
+                name="main/NEW1_037.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_037.png" />
+            <file
+                name="main/NEW1_038.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_038.png" />
+            <file
+                name="main/EX1_050.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_050.png" />
+            <file
+                name="main/EX1_614.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_614.png" />
+            <file
+                name="main/CS2_221.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_221.png" />
+            <file
+                name="main/CS2_161.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_161.png" />
+            <file
+                name="main/EX1_170.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_170.png" />
+            <file
+                name="main/EX1_045.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_045.png" />
+            <file
+                name="main/EX1_011.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_011.png" />
+            <file
+                name="main/EX1_016.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_016.png" />
+            <file
+                name="main/EX1_620.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_620.png" />
+            <file
+                name="main/EX1_562.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_562.png" />
+            <file
+                name="main/NEW1_017.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_017.png" />
+            <file
+                name="main/NEW1_016.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_016.png" />
+            <file
+                name="main/EX1_028.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_028.png" />
+            <file
+                name="main/EX1_021.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_021.png" />
+            <file
+                name="main/EX1_112.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_112.png" />
+            <file
+                name="main/NEW1_024.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_024.png" />
+            <file
+                name="main/EX1_066.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_066.png" />
+            <file
+                name="main/EX1_595.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_595.png" />
+            <file
+                name="main/EX1_058.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_058.png" />
+            <file
+                name="main/NEW1_018.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/NEW1_018.png" />
+            <file
+                name="main/CS2_182.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_182.png" />
+            <file
+                name="main/EX1_095.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_095.png" />
+            <file
+                name="main/EX1_105.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_105.png" />
+            <file
+                name="main/CS2_131.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/CS2_131.png" />
+            <file
+                name="main/EX1_590.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_590.png" />
+            <file
+                name="main/EX1_298.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/main/EX1_298.png" />
+            <file
+                name="shaman/NEW1_010.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/NEW1_010.png" />
+            <file
+                name="shaman/CS2_037.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_037.png" />
+            <file
+                name="mage/EX1_277.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_277.png" />
+            <file
+                name="hunter/DS1_188.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/DS1_188.png" />
+            <file
+                name="hunter/EX1_544.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_544.png" />
+            <file
+                name="mage/CS2_024.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_024.png" />
+            <file
+                name="warrior/CS2_112.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/CS2_112.png" />
+            <file
+                name="druid/CS2_009.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_009.png" />
+            <file
+                name="priest/CS2_003.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS2_003.png" />
+            <file
+                name="warlock/CS2_057.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/CS2_057.png" />
+            <file
+                name="priest/EX1_345.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_345.png" />
+            <file
+                name="shaman/CS2_038.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_038.png" />
+            <file
+                name="warrior/EX1_084.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_084.png" />
+            <file
+                name="mage/CS2_027.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_027.png" />
+            <file
+                name="druid/EX1_178.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_178.png" />
+            <file
+                name="warlock/CS2_065.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/CS2_065.png" />
+            <file
+                name="warrior/EX1_407.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_407.png" />
+            <file
+                name="warrior/NEW1_036.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/NEW1_036.png" />
+            <file
+                name="mage/EX1_608.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_608.png" />
+            <file
+                name="paladin/EX1_132.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_132.png" />
+            <file
+                name="rouge/EX1_145.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_145.png" />
+            <file
+                name="mage/CS2_023.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_023.png" />
+            <file
+                name="hunter/EX1_537.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_537.png" />
+            <file
+                name="warrior/EX1_603.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_603.png" />
+            <file
+                name="warlock/EX1_315.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_315.png" />
+            <file
+                name="priest/EX1_621.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_621.png" />
+            <file
+                name="druid/EX1_578.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_578.png" />
+            <file
+                name="mage/CS2_033.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_033.png" />
+            <file
+                name="paladin/EX1_384.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_384.png" />
+            <file
+                name="rouge/EX1_131.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_131.png" />
+            <file
+                name="shaman/CS2_053.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_053.png" />
+            <file
+                name="warrior/EX1_411.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_411.png" />
+            <file
+                name="druid/CS2_232.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_232.png" />
+            <file
+                name="warlock/EX1_303.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_303.png" />
+            <file
+                name="paladin/EX1_365.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_365.png" />
+            <file
+                name="priest/CS1_112.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS1_112.png" />
+            <file
+                name="warlock/EX1_312.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_312.png" />
+            <file
+                name="warrior/EX1_398.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_398.png" />
+            <file
+                name="priest/EX1_091.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_091.png" />
+            <file
+                name="rouge/CS2_077.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_077.png" />
+            <file
+                name="priest/CS2_004.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS2_004.png" />
+            <file
+                name="paladin/EX1_136.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_136.png" />
+            <file
+                name="druid/EX1_155.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_155.png" />
+            <file
+                name="shaman/CS2_042.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_042.png" />
+            <file
+                name="warrior/EX1_392.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_392.png" />
+            <file
+                name="hunter/DS1_185.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/DS1_185.png" />
+            <file
+                name="rouge/NEW1_014.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/NEW1_014.png" />
+            <file
+                name="shaman/CS2_045.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_045.png" />
+            <file
+                name="shaman/CS2_041.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_041.png" />
+            <file
+                name="paladin/CS2_091.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_091.png" />
+            <file
+                name="shaman/EX1_246.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_246.png" />
+            <file
+                name="mage/CS2_028.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_028.png" />
+            <file
+                name="warrior/EX1_410.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_410.png" />
+            <file
+                name="rouge/EX1_126.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_126.png" />
+            <file
+                name="rouge/EX1_133.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_133.png" />
+            <file
+                name="priest/EX1_339.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_339.png" />
+            <file
+                name="shaman/EX1_251.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_251.png" />
+            <file
+                name="druid/EX1_154.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_154.png" />
+            <file
+                name="paladin/CS2_093.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_093.png" />
+            <file
+                name="warrior/CS2_104.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/CS2_104.png" />
+            <file
+                name="warlock/EX1_316.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_316.png" />
+            <file
+                name="hunter/EX1_543.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_543.png" />
+            <file
+                name="shaman/CS2_046.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_046.png" />
+            <file
+                name="warlock/EX1_306.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_306.png" />
+            <file
+                name="warrior/EX1_391.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_391.png" />
+            <file
+                name="warlock/CS2_061.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/CS2_061.png" />
+            <file
+                name="rouge/CS2_080.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_080.png" />
+            <file
+                name="shaman/EX1_243.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_243.png" />
+            <file
+                name="warrior/NEW1_011.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/NEW1_011.png" />
+            <file
+                name="warlock/EX1_309.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_309.png" />
+            <file
+                name="paladin/EX1_383.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_383.png" />
+            <file
+                name="warlock/EX1_308.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_308.png" />
+            <file
+                name="hunter/CS2_084.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/CS2_084.png" />
+            <file
+                name="mage/EX1_294.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_294.png" />
+            <file
+                name="rouge/CS2_075.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_075.png" />
+            <file
+                name="druid/NEW1_008.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/NEW1_008.png" />
+            <file
+                name="paladin/CS2_087.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_087.png" />
+            <file
+                name="rouge/EX1_137.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_137.png" />
+            <file
+                name="druid/EX1_169.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_169.png" />
+            <file
+                name="warrior/EX1_607.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_607.png" />
+            <file
+                name="warlock/NEW1_003.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/NEW1_003.png" />
+            <file
+                name="druid/EX1_164.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_164.png" />
+            <file
+                name="druid/NEW1_007.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/NEW1_007.png" />
+            <file
+                name="priest/EX1_626.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_626.png" />
+            <file
+                name="warlock/EX1_302.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_302.png" />
+            <file
+                name="warlock/EX1_310.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_310.png" />
+            <file
+                name="mage/CS2_025.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_025.png" />
+            <file
+                name="priest/CS2_236.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS2_236.png" />
+            <file
+                name="shaman/EX1_575.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_575.png" />
+            <file
+                name="priest/EX1_341.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_341.png" />
+            <file
+                name="paladin/CS2_092.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_092.png" />
+            <file
+                name="priest/EX1_622.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_622.png" />
+            <file
+                name="warrior/CS2_108.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/CS2_108.png" />
+            <file
+                name="rouge/CS2_076.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_076.png" />
+            <file
+                name="paladin/EX1_379.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_379.png" />
+            <file
+                name="hunter/EX1_554.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_554.png" />
+            <file
+                name="hunter/EX1_609.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_609.png" />
+            <file
+                name="shaman/EX1_241.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_241.png" />
+            <file
+                name="priest/EX1_335.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_335.png" />
+            <file
+                name="priest/CS2_235.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS2_235.png" />
+            <file
+                name="paladin/EX1_354.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_354.png" />
+            <file
+                name="warlock/CS2_059.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/CS2_059.png" />
+            <file
+                name="druid/CS2_011.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_011.png" />
+            <file
+                name="mage/EX1_279.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_279.png" />
+            <file
+                name="paladin/CS2_089.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_089.png" />
+            <file
+                name="warrior/EX1_604.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_604.png" />
+            <file
+                name="druid/EX1_161.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_161.png" />
+            <file
+                name="rouge/EX1_129.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_129.png" />
+            <file
+                name="hunter/EX1_610.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_610.png" />
+            <file
+                name="rouge/CS2_074.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_074.png" />
+            <file
+                name="paladin/EX1_360.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_360.png" />
+            <file
+                name="priest/EX1_625.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_625.png" />
+            <file
+                name="paladin/EX1_371.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_371.png" />
+            <file
+                name="paladin/EX1_349.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_349.png" />
+            <file
+                name="hunter/DS1_070.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/DS1_070.png" />
+            <file
+                name="warlock/EX1_313.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_313.png" />
+            <file
+                name="priest/CS1_130.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS1_130.png" />
+            <file
+                name="warrior/CS2_105.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/CS2_105.png" />
+            <file
+                name="warrior/EX1_408.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_408.png" />
+            <file
+                name="druid/EX1_165.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_165.png" />
+            <file
+                name="mage/NEW1_012.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/NEW1_012.png" />
+            <file
+                name="shaman/CS2_039.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/CS2_039.png" />
+            <file
+                name="paladin/EX1_363.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_363.png" />
+            <file
+                name="mage/EX1_275.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_275.png" />
+            <file
+                name="warrior/EX1_400.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_400.png" />
+            <file
+                name="mage/CS2_022.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_022.png" />
+            <file
+                name="warlock/EX1_301.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_301.png" />
+            <file
+                name="shaman/EX1_248.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_248.png" />
+            <file
+                name="hunter/DS1_183.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/DS1_183.png" />
+            <file
+                name="shaman/EX1_258.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_258.png" />
+            <file
+                name="hunter/EX1_549.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_549.png" />
+            <file
+                name="paladin/EX1_362.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_362.png" />
+            <file
+                name="priest/CS1_129.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS1_129.png" />
+            <file
+                name="shaman/EX1_565.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_565.png" />
+            <file
+                name="druid/EX1_158.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_158.png" />
+            <file
+                name="warlock/EX1_319.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_319.png" />
+            <file
+                name="rouge/EX1_124.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_124.png" />
+            <file
+                name="rouge/EX1_278.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_278.png" />
+            <file
+                name="rouge/EX1_581.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_581.png" />
+            <file
+                name="warlock/CS2_063.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/CS2_063.png" />
+            <file
+                name="mage/EX1_274.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_274.png" />
+            <file
+                name="druid/EX1_573.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_573.png" />
+            <file
+                name="priest/DS1_233.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/DS1_233.png" />
+            <file
+                name="hunter/DS1_184.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/DS1_184.png" />
+            <file
+                name="warrior/EX1_402.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_402.png" />
+            <file
+                name="priest/CS1_113.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS1_113.png" />
+            <file
+                name="druid/EX1_571.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_571.png" />
+            <file
+                name="warlock/EX1_304.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_304.png" />
+            <file
+                name="mage/CS2_031.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_031.png" />
+            <file
+                name="rouge/EX1_144.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_144.png" />
+            <file
+                name="warrior/EX1_606.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_606.png" />
+            <file
+                name="hunter/NEW1_031.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/NEW1_031.png" />
+            <file
+                name="rouge/EX1_128.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_128.png" />
+            <file
+                name="priest/EX1_591.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_591.png" />
+            <file
+                name="rouge/EX1_613.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_613.png" />
+            <file
+                name="warlock/EX1_317.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_317.png" />
+            <file
+                name="mage/EX1_295.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_295.png" />
+            <file
+                name="hunter/EX1_531.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_531.png" />
+            <file
+                name="priest/EX1_332.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_332.png" />
+            <file
+                name="paladin/CS2_094.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_094.png" />
+            <file
+                name="mage/tt_010.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/tt_010.png" />
+            <file
+                name="druid/EX1_173.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_173.png" />
+            <file
+                name="shaman/EX1_587.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_587.png" />
+            <file
+                name="rouge/NEW1_005.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/NEW1_005.png" />
+            <file
+                name="priest/EX1_624.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_624.png" />
+            <file
+                name="druid/EX1_160.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_160.png" />
+            <file
+                name="mage/EX1_612.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_612.png" />
+            <file
+                name="shaman/EX1_250.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_250.png" />
+            <file
+                name="mage/CS2_029.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_029.png" />
+            <file
+                name="mage/EX1_594.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_594.png" />
+            <file
+                name="druid/CS2_013.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_013.png" />
+            <file
+                name="mage/EX1_559.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_559.png" />
+            <file
+                name="hunter/EX1_539.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_539.png" />
+            <file
+                name="warlock/EX1_596.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_596.png" />
+            <file
+                name="warlock/CS2_062.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/CS2_062.png" />
+            <file
+                name="paladin/EX1_130.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_130.png" />
+            <file
+                name="mage/CS2_032.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_032.png" />
+            <file
+                name="paladin/CS2_088.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_088.png" />
+            <file
+                name="druid/CS2_012.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_012.png" />
+            <file
+                name="shaman/EX1_247.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_247.png" />
+            <file
+                name="hunter/EX1_617.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_617.png" />
+            <file
+                name="rouge/EX1_522.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_522.png" />
+            <file
+                name="rouge/EX1_134.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/EX1_134.png" />
+            <file
+                name="warlock/EX1_320.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_320.png" />
+            <file
+                name="warrior/CS2_106.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/CS2_106.png" />
+            <file
+                name="hunter/DS1_178.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/DS1_178.png" />
+            <file
+                name="warrior/EX1_409.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_409.png" />
+            <file
+                name="paladin/EX1_366.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_366.png" />
+            <file
+                name="priest/EX1_623.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_623.png" />
+            <file
+                name="rouge/NEW1_004.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/NEW1_004.png" />
+            <file
+                name="paladin/EX1_355.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_355.png" />
+            <file
+                name="warlock/CS2_064.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/CS2_064.png" />
+            <file
+                name="druid/CS2_007.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_007.png" />
+            <file
+                name="druid/CS2_008.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_008.png" />
+            <file
+                name="mage/EX1_289.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_289.png" />
+            <file
+                name="shaman/EX1_238.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_238.png" />
+            <file
+                name="priest/EX1_334.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_334.png" />
+            <file
+                name="hunter/EX1_533.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_533.png" />
+            <file
+                name="rouge/CS2_233.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_233.png" />
+            <file
+                name="warrior/CS2_114.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/CS2_114.png" />
+            <file
+                name="warrior/CS2_103.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/CS2_103.png" />
+            <file
+                name="hunter/EX1_611.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_611.png" />
+            <file
+                name="hunter/CS2_237.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/CS2_237.png" />
+            <file
+                name="shaman/EX1_245.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_245.png" />
+            <file
+                name="shaman/EX1_567.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_567.png" />
+            <file
+                name="paladin/EX1_382.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_382.png" />
+            <file
+                name="druid/EX1_166.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_166.png" />
+            <file
+                name="rouge/CS2_073.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_073.png" />
+            <file
+                name="paladin/CS2_097.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/CS2_097.png" />
+            <file
+                name="hunter/EX1_536.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_536.png" />
+            <file
+                name="shaman/EX1_259.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_259.png" />
+            <file
+                name="hunter/EX1_538.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_538.png" />
+            <file
+                name="warlock/EX1_323.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warlock/EX1_323.png" />
+            <file
+                name="warrior/EX1_414.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/warrior/EX1_414.png" />
+            <file
+                name="shaman/EX1_244.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/shaman/EX1_244.png" />
+            <file
+                name="mage/EX1_287.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/EX1_287.png" />
+            <file
+                name="rouge/CS2_072.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/rouge/CS2_072.png" />
+            <file
+                name="priest/CS2_234.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/CS2_234.png" />
+            <file
+                name="druid/EX1_570.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/EX1_570.png" />
+            <file
+                name="hunter/EX1_534.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/EX1_534.png" />
+            <file
+                name="mage/CS2_026.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/mage/CS2_026.png" />
+            <file
+                name="paladin/EX1_619.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/paladin/EX1_619.png" />
+            <file
+                name="druid/CS2_005.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/druid/CS2_005.png" />
+            <file
+                name="hunter/DS1_175.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/hunter/DS1_175.png" />
+            <file
+                name="priest/EX1_350.png"
+                path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/assets/priest/EX1_350.png" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/debug/assets" />
+    </dataSet>
+
+</merger>

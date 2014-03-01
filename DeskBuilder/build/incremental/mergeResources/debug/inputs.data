@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1392061565000 3525 c61304a159ce8c8a96e2bb3acd37be8fbf9bd01a /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/drawable-xhdpi/ic_launcher.png
+1392061565000 2514 2580219724fb9d4c8e3a44f6cfae03ca10de0f8b /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/drawable-hdpi/ic_launcher.png
+1392061567000 77 279f2987057cb473bdb9ffc8bdc3d1740fc241cb /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/values/colors.xml
+1392061567000 489 69d532142c914e35dd14b9c42adf646f0f223949 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/values/attrs.xml
+1392061567000 967 b05ec49f9d24ab6ee58de704cae240f94ebaedb3 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/values-v11/styles.xml
+1392061567000 1833 6558f0c97910e51b4ac5458f1ddd4ffdd652c0ce /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/layout/activity_fullscreen.xml
+1392061567000 1423 5e3937aba092f915ebb34a8aa59fdcba39a10ee7 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/values/styles.xml
+1392061565000 5835 0302f1f1dbc42a54a3d760db192e106d91933375 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/drawable-xxhdpi/ic_launcher.png
+1392061565000 1597 27b17d4fe47ac7cf0555aebaa6c77dcb75096526 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/drawable-mdpi/ic_launcher.png
+1392061566000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/values-v14/styles.xml
+1392061567000 227 46b998766651b93e2d88ec1a212a4ccf61833359 /Users/sone/AndroidStudioProjects/DeskBuilderProject/DeskBuilder/src/main/res/values/strings.xml
