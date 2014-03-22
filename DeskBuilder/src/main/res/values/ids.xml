@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="desk_loader" type="id"/>
+    <item name="kind" type="id"/>
+    <item name="name" type="id"/>
+</resources>
