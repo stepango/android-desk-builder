@@ -1,29 +1,65 @@
 buildscript {
     repositories {
         mavenCentral()
+        maven { url 'http://saturday06.github.io/gradle-android-scala-plugin/repository/snapshot' }
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.8.+'
+        classpath 'com.android.tools.build:gradle:0.9.+'
+        classpath 'jp.leafytree.gradle:gradle-android-scala-plugin:1.0-SNAPSHOT'
     }
 }
 apply plugin: 'android'
+apply plugin: 'android-scala'
 
 repositories {
     mavenCentral()
+    maven { url 'https://raw.github.com/elegion/maven/master/' }
 }
 
 android {
-    compileSdkVersion 17
-    buildToolsVersion "19.0.1"
+    compileSdkVersion 19
+    buildToolsVersion '19.0.3'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
 
     defaultConfig {
         minSdkVersion 14
-        targetSdkVersion 17
+        targetSdkVersion 19
+    }
+
+    sourceSets {
+        main {
+            scala {
+                srcDir "src/main/scala" // default: "src/main/scala"
+            }
+        }
+    }
+
+    buildTypes {
+        debug {
+            runProguard true // required
+            proguardFile file('proguard-rules.txt')
+        }
+
+        release {
+            runProguard true
+            proguardFile file('proguard-rules.txt')
+        }
+    }
+
+    scala {
+        target "jvm-1.7" // default: "jvm-1.6"
     }
 }
 
 dependencies {
     compile 'com.android.support:support-v13:+'
+    compile 'com.android.support:support-v4:+'
     compile 'com.squareup.picasso:picasso:2.2.+'
-    compile files('lib/sugar-1.2.jar')
+    compile 'org.scala-lang:scala-library:2.10.3'
+    compile 'org.scaloid:scaloid_2.10:+'
+    compile 'com.elegion.tools:droidkit:2.3.+'
 }

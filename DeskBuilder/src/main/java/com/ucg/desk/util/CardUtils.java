@@ -20,7 +20,7 @@ public class CardUtils {
     }
 
     public static ArrayList<Card> getCards(final Context context, String... types){
-        ArrayList<Card> cards = new ArrayList<Card>();
+        ArrayList<Card> cards = new ArrayList<>();
         for (String type : types) {
             try {
                 final String[] files = context.getAssets().list(type);

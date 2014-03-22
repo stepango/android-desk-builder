@@ -1,7 +1,6 @@
 package com.ucg.desk.view;
 
 import android.content.Context;
-import android.net.Uri;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
@@ -10,7 +9,6 @@ import android.widget.ImageView;
 import com.squareup.picasso.Picasso;
 import com.ucg.desk.Card;
 import com.ucg.desk.R;
-import com.ucg.desk.util.CardUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,7 +19,7 @@ import java.util.List;
 public class CardAdapter extends BaseAdapter {
 
     private Context mContext;
-    private List<Card> mCards = new ArrayList<Card>();
+    private List<Card> mCards = new ArrayList<>();
 
     public CardAdapter(Context context) {
         super();
