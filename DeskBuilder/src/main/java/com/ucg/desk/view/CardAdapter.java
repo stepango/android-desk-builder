@@ -60,7 +60,7 @@ public class CardAdapter extends BaseAdapter {
 
         Picasso.with(mContext)
                 .load(mCards.get(position).getUri())
-                .placeholder(R.drawable.ic_launcher)
+                .placeholder(R.drawable.list_stub)
                 .into(imageView);
         return imageView;
 

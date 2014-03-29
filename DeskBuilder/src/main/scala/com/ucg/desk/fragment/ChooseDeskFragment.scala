@@ -15,7 +15,11 @@ import com.ucg.desk.DeskSchema._
 /**
  * Created by sone on 01.03.14.
  */
-class ChooseDeskFragment extends Fragment with View.OnClickListener with LoaderManager.LoaderCallbacks[Cursor] {
+class ChooseDeskFragment
+  extends Fragment
+  with View.OnClickListener
+  with LoaderManager.LoaderCallbacks[Cursor] {
+
   override def onCreateView(inflater: LayoutInflater, container: ViewGroup, savedInstanceState: Bundle): View = {
     inflater.inflate(R.layout.fmt_desk_choose, null, false)
   }
@@ -39,7 +43,7 @@ class ChooseDeskFragment extends Fragment with View.OnClickListener with LoaderM
   }
 
   override def onCreateLoader(id: Int, args: Bundle): Loader[Cursor] = {
-    new CursorLoader(getActivity, URI, Array(NAME, KIND), NAME + " IS NOT NULL GROUP BY " + NAME, null, null)
+    new CursorLoader(getActivity, URI, Array(NAME, KIND, "COUNT(" + CARD_PATH + ")"), NAME + " IS NOT NULL GROUP BY " + NAME, null, null)
   }
 
   override def onLoadFinished(loader: Loader[Cursor], data: Cursor) {
@@ -53,7 +57,7 @@ class ChooseDeskFragment extends Fragment with View.OnClickListener with LoaderM
       button.setTag(R.id.kind, kind)
       button.setTag(R.id.name, name)
       button.setOnClickListener(this)
-      button.setText(name)
+      button.setText(name + " " + data.getString(data.getColumnIndex("COUNT(" + CARD_PATH + ")")))
       button.setCompoundDrawablesWithIntrinsicBounds(null, getDrawableByName(kind), null, null)
       layout.addView(button, new ViewGroup.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT))
       data.moveToNext()

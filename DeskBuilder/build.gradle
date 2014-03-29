@@ -51,7 +51,7 @@ android {
     }
 
     scala {
-        target "jvm-1.7" // default: "jvm-1.6"
+        target "jvm-1.6" // default: "jvm-1.6"
     }
 }
 
@@ -62,4 +62,5 @@ dependencies {
     compile 'org.scala-lang:scala-library:2.10.3'
     compile 'org.scaloid:scaloid_2.10:+'
     compile 'com.elegion.tools:droidkit:2.3.+'
+    compile 'ch.acra:acra:4.5.+'
 }

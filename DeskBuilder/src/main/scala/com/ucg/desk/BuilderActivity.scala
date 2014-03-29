@@ -18,6 +18,7 @@ class BuilderActivity extends Activity with SActivity with Logger with LoaderMan
 
   private val cards = new ArrayBuffer[Card]
   private var kind: String = _
+  private var name: String = _
 
   private var mColumnWidth: Int = 0
   private val mListener = new View.OnClickListener {
@@ -34,7 +35,7 @@ class BuilderActivity extends Activity with SActivity with Logger with LoaderMan
   }
 
   override def onCreateLoader(id: Int, args: Bundle): Loader[Cursor] = {
-    new CursorLoader(this, DeskSchema.URI, null, NAME + "=?", Array(args.getString("NAME")), null)
+    new CursorLoader(this, DeskSchema.URI, null, NAME + "=?", Array(name), null)
   }
 
   override def onLoadFinished(loader: Loader[Cursor], data: Cursor) {
@@ -61,6 +62,7 @@ class BuilderActivity extends Activity with SActivity with Logger with LoaderMan
     mColumnWidth = point.x / 4
     kind = getIntent.getStringExtra("CLASS")
     if (getIntent.getExtras.containsKey("NAME")) {
+      name = getIntent.getExtras.getString("NAME")
       getLoaderManager.initLoader(R.id.desk_loader, getIntent.getExtras, this)
     }
     val desk: GridLayout = findViewById(R.id.grid_cards_desk).asInstanceOf[GridLayout]
@@ -82,7 +84,7 @@ class BuilderActivity extends Activity with SActivity with Logger with LoaderMan
     imageView.setMinimumWidth(mColumnWidth)
     imageView.setMaxWidth(mColumnWidth)
     imageView.setTag(s)
-    Picasso.`with`(this).load(s.getUri).placeholder(R.drawable.ic_launcher).into(imageView)
+    Picasso.`with`(this).load(s.getUri).placeholder(R.drawable.list_stub).into(imageView)
     desk.addView(imageView)
     cards += s
   }
@@ -97,6 +99,9 @@ class BuilderActivity extends Activity with SActivity with Logger with LoaderMan
     new AlertDialogBuilder("Enter desk name", "") {
       val edit = new SEditText
       setView(edit)
+      if (!TextUtils.isEmpty(name)) {
+        edit.setText(name)
+      }
       neutralButton(android.R.string.ok, (d: DialogInterface, i: Int) => {
         val name = edit.getText.toString
         if (!TextUtils.isEmpty(name)) {
@@ -109,6 +114,7 @@ class BuilderActivity extends Activity with SActivity with Logger with LoaderMan
             cv.put(KIND, kind)
             arrCV += cv
           }
+          getContentResolver.delete(DeskSchema.URI, NAME + "=?", Array(name))
           val num = getContentResolver.bulkInsert(DeskSchema.URI, arrCV.toArray[ContentValues])
           toast(num.toString)
           d.dismiss()
