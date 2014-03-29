@@ -1,0 +1,4 @@
+*.iml
+DescBuilder/build/
+*.properties
+.idea/
