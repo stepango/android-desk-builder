@@ -1,6 +1,5 @@
 apply plugin: 'com.android.application'
 apply plugin: 'jp.leafytree.android-scala'
-apply plugin: 'com.neenbedankt.android-apt'
 
 android {
     compileSdkVersion 22
@@ -12,8 +11,9 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 14
+        minSdkVersion 21
         targetSdkVersion 22
+        multiDexEnabled true
     }
 
     sourceSets {
@@ -23,36 +23,15 @@ android {
             }
         }
     }
-
-    buildTypes {
-        debug {
-            minifyEnabled true // required
-            dexOptions.preDexLibraries = false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
-        }
-        release {
-            minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
-        }
-    }
-}
-
-apt {
-    arguments {
-        resourcePackageName android.defaultConfig.applicationId
-        androidManifestFile variant.outputs[0]?.processResources?.manifestFile
-    }
 }
 
 dependencies {
     compile 'com.android.support:support-v13:22.+'
     compile 'com.android.support:support-v4:22.+'
-    compile 'com.squareup.picasso:picasso:2.2.+'
+    compile 'com.squareup.picasso:picasso:2.3.4'
     compile 'org.scala-lang:scala-library:2.11.7'
     compile 'org.scaloid:scaloid_2.11:4.0'
-    compile 'com.elegion.tools:droidkit:2.3.+'
-    apt "org.androidannotations:androidannotations:3.3.2"
-    compile 'org.androidannotations:androidannotations-api:3.3.2'
+    compile 'com.elegion.tools:droidkit:2.3.13'
 }
 
 tasks.withType(ScalaCompile) {
