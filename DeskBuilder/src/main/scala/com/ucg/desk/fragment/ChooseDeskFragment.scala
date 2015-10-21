@@ -1,16 +1,16 @@
 package com.ucg.desk.fragment
 
-import android.app.{LoaderManager, Fragment}
-import android.view.{LayoutInflater, ViewGroup, View}
-import com.ucg.desk.{BuilderActivity, R}
-import android.widget.{Button, GridLayout}
-import android.graphics.drawable.Drawable
-import android.content.Intent
-import android.os.Bundle
-import android.content.{CursorLoader, Loader}
+import android.app.{Fragment, LoaderManager}
+import android.content.{CursorLoader, Intent, Loader}
 import android.database.Cursor
+import android.graphics.drawable.Drawable
+import android.os.Bundle
+import android.support.v4.content.ContextCompat
+import android.view.{LayoutInflater, View, ViewGroup}
+import android.widget.{Button, GridLayout}
 import com.ucg.desk.DeskSchema.Columns._
 import com.ucg.desk.DeskSchema._
+import com.ucg.desk.{BuilderActivity, R}
 
 /**
  * Created by sone on 01.03.14.
@@ -27,10 +27,6 @@ class ChooseDeskFragment
   override def onActivityCreated(savedInstanceState: Bundle) {
     super.onActivityCreated(savedInstanceState)
     getLoaderManager.initLoader(R.id.desk_loader, null, this)
-  }
-
-  private def getDrawableByName(name: String): Drawable = {
-    getResources.getDrawable(getResources.getIdentifier(name, "drawable", getActivity.getPackageName))
   }
 
   def onClick(v: View) {
@@ -63,6 +59,10 @@ class ChooseDeskFragment
       data.moveToNext()
     }
     data.close()
+  }
+
+  private def getDrawableByName(name: String): Drawable = {
+    ContextCompat.getDrawable(getActivity, getResources.getIdentifier(name, "drawable", getActivity.getPackageName))
   }
 
   override def onLoaderReset(loader: Loader[Cursor]): Unit = {

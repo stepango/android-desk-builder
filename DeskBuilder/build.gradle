@@ -1,24 +1,10 @@
-buildscript {
-    repositories {
-        mavenCentral()
-        maven { url 'http://saturday06.github.io/gradle-android-scala-plugin/repository/snapshot' }
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:0.9.+'
-        classpath 'jp.leafytree.gradle:gradle-android-scala-plugin:1.0-SNAPSHOT'
-    }
-}
-apply plugin: 'android'
-apply plugin: 'android-scala'
-
-repositories {
-    mavenCentral()
-    maven { url 'https://raw.github.com/elegion/maven/master/' }
-}
+apply plugin: 'com.android.application'
+apply plugin: 'jp.leafytree.android-scala'
+apply plugin: 'com.neenbedankt.android-apt'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion '19.0.3'
+    compileSdkVersion 22
+    buildToolsVersion '23.0.1'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
@@ -27,7 +13,7 @@ android {
 
     defaultConfig {
         minSdkVersion 14
-        targetSdkVersion 19
+        targetSdkVersion 22
     }
 
     sourceSets {
@@ -40,27 +26,36 @@ android {
 
     buildTypes {
         debug {
-            runProguard true // required
-            proguardFile file('proguard-rules.txt')
+            minifyEnabled true // required
+            dexOptions.preDexLibraries = false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
-
         release {
-            runProguard true
-            proguardFile file('proguard-rules.txt')
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+}
 
-    scala {
-        target "jvm-1.6" // default: "jvm-1.6"
+apt {
+    arguments {
+        resourcePackageName android.defaultConfig.applicationId
+        androidManifestFile variant.outputs[0]?.processResources?.manifestFile
     }
 }
 
 dependencies {
-    compile 'com.android.support:support-v13:+'
-    compile 'com.android.support:support-v4:+'
+    compile 'com.android.support:support-v13:22.+'
+    compile 'com.android.support:support-v4:22.+'
     compile 'com.squareup.picasso:picasso:2.2.+'
-    compile 'org.scala-lang:scala-library:2.10.3'
-    compile 'org.scaloid:scaloid_2.10:+'
+    compile 'org.scala-lang:scala-library:2.11.7'
+    compile 'org.scaloid:scaloid_2.11:4.0'
     compile 'com.elegion.tools:droidkit:2.3.+'
-    compile 'ch.acra:acra:4.5.+'
+    apt "org.androidannotations:androidannotations:3.3.2"
+    compile 'org.androidannotations:androidannotations-api:3.3.2'
+}
+
+tasks.withType(ScalaCompile) {
+    scalaCompileOptions.deprecation = false
+    scalaCompileOptions.additionalParameters = ["-feature"]
 }

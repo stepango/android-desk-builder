@@ -8,6 +8,7 @@ import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.support.v13.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
+import android.view.View;
 
 import com.ucg.desk.fragment.ChooseDeskFragment;
 import com.ucg.desk.fragment.ChooseHeroFragment;
@@ -23,10 +24,10 @@ public class ChooseDeskActivity extends Activity implements ActionBar.TabListene
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.ac_choice);
 
         // Instantiate a ViewPager and a PagerAdapter.
-        mPager = (ViewPager) findViewById(R.id.pager);
+        mPager = (ViewPager) View.inflate(this, R.layout.ac_choice, null);
+        setContentView(mPager);
         mPagerAdapter = new ScreenSlidePagerAdapter(getFragmentManager());
         mPager.setAdapter(mPagerAdapter);
         mPager.setOnPageChangeListener(this);
